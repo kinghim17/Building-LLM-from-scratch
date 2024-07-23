@@ -1,3 +1,3 @@
 its a GEN-AI project 
 
-swe used google API to create a LLM which does both image processing and generating answers through the prompts and the interface is given by streamlit
+I've developed a large language model (LLM) using the Google API that integrates both image processing and text generation capabilities. The user interface for interacting with the model is built using Streamlit.
